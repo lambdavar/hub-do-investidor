@@ -11,5 +11,4 @@ baixa cotacoes.ipynb:
 
 ![image](https://user-images.githubusercontent.com/8007174/182425961-5d1f7846-021f-4ade-bb8d-3c46b04f6406.png)
 
-Cotizacao por excel.xlsx
-* Planilha que cotiza a carteira manualmente, basta colar os dados e extender as formulas
+
